@@ -9,8 +9,13 @@ poetry run python tetris/main.py
 ```
 
 todo
-- Fix rotation position when there are other blocks in the grid
-- Add incoming block
-- Add score
-- Add endgame
-- Add the rest of the blocks
+- [X] Fix rotation position when there are other blocks in the grid.
+- [x] Implement full row logic.
+- [X] Add the rest of the blocks.
+- [x] Add incoming block.
+- [X] Add endgame.
+- [x] Add score.
+- [X] Add different scenes.
+    - [x] Add game over scene and continue
+- [ ] Improve UI
+- [] Fix IBlock rotation.
